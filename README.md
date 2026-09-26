@@ -26,7 +26,7 @@ discord-video-bot/
 │   ├── models/download_job.py
 │   └── utils/                # urls.py, formatting.py, logging.py
 ├── tests/
-├── .env
+├── .env.example
 ├── Dockerfile / docker-compose.yml
 └── requirements.txt
 ```
