@@ -60,7 +60,7 @@ discord-video-bot/
 ## 4. Installation
 
 ```bash
-git clone [<url-de-ton-repo>](https://github.com/Jackfrost-cloud/discord-video-bot.git)
+git clone https://github.com/Jackfrost-cloud/discord-video-bot.git
 cd discord-video-bot
 python -m venv .venv
 source .venv/bin/activate   # Windows : .venv\Scripts\activate
